@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(206, 180, 180);
+}
+iframe{ margin: 5%; padding:5%; border: solid black 2px}
+
+h1 { color:olive; text-align: center; text-decoration-line: underline;
+}
+
+h2, h3 , h4, h5, h6, h8{ color:olive; font-size: 20px;
+}
+
+p{ font-size: 15px; color:olive 
+}
